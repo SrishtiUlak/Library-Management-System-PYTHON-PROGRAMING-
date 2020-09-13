@@ -1,0 +1,12 @@
+Harry Potter,JKs Rowling,30,2
+Start With Why,Simon Sinek,48,1.5
+Program Python,John Smith,60,2.0
+The Life of Pi,Yann Martel,35,2
+Moll Flanders,Daniel Defoe,13,3
+Daisy Millers,Henry James,25,1.5
+Go Ask Alice,Beatrice Sparks,27,2.5 
+Alias Grace,Margaret Atwood,5,1.4
+My Name is Joe,Stefan Bourque,30,3
+Doctor Faustus,Thomas Mann,15,2
+Little Audrey,Ruth Whites,25,1  
+Buddenbrooks,Thomas Mann,52,3  
